@@ -22,3 +22,4 @@ https://roytuts.com/spring-batch-scheduling-multiple-jobs-parallelly/
 
 ### Configurar step v5:
 https://docs.spring.io/spring-batch/docs/current/reference/html/step.html
+https://stackoverflow.com/questions/21557623/how-do-i-set-jobparameters-in-spring-batch-with-spring-boot
